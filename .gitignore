@@ -1,0 +1,34 @@
+# Dependencies
+/vendor/
+composer.lock
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PHP
+*.phar
+
+# Testing
+/.phpunit.cache/
+/tmp/
+/logs/
+.phpunit.result.cache
+coverage/
+.coverage
+
+# Build
+/dist/
+/build/
+
+# Environment
+.env
+.env.local
+
+.serena
+claudedocs
